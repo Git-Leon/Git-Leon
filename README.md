@@ -10,7 +10,6 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) or naviga
 
 
 ### Contact Information
-* **Phone**: `(302) 312-4489`
 * **Email**: [`xleonhunter@gmail.com`](mailto:xleonhunter@gmail.com)
 * **Website:** [`https://git-leon.github.io/Leon-Hunter-Public-Portfolio`](https://git-leon.github.io/Leon-Hunter-Public-Portfolio)
 * **LinkedIn:** [`https://www.linkedin.com/in/leon-hunter-3230408b`](https://www.linkedin.com/in/leon-hunter-3230408b)
