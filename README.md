@@ -2,9 +2,6 @@
 
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) or navigate to link below to view full portfolio_
 
-# Senior Cloud Native Application Developer
-# Junior Cloud DevOps Engineer
-
 ## About
 
 
