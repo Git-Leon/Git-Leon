@@ -7,21 +7,23 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) or naviga
 
 ## About
 
+### Education
+* Delaware State University (2011 - 2015)
+* Bachelor of Science (BS)
+* Computer Science Major, Mathematics Minor
+
+
 ### Contact Information
 * **Phone**: `(302) 312-4489`
 * **Email**: [`xleonhunter@gmail.com`](mailto:xleonhunter@gmail.com)
 * **Website:** [`https://git-leon.github.io/Leon-Hunter-Public-Portfolio`](https://git-leon.github.io/Leon-Hunter-Public-Portfolio)
 * **LinkedIn:** [`https://www.linkedin.com/in/leon-hunter-3230408b`](https://www.linkedin.com/in/leon-hunter-3230408b)
 * **Github Organization Ownership**
-    * `https://github.com/curriculeon`
-    * `https://github.com/git-leon`
+    * [`https://github.com/curriculeon`](https://github.com/curriculeon)
+    * [`https://github.com/git-leon`](https://github.com/git-leon)
 * **Deployed Maven Dependencies**
-   * https://packagecloud.io/git-leon/
+   * [`https://packagecloud.io/git-leon/`](https://packagecloud.io/git-leon/)
 
-### Education
-* Delaware State University (2011 - 2015)
-* Bachelor of Science (BS)
-* Computer Science Major, Mathematics Minor
 
 ### Summary
 Experienced T-shaped Engineer and Technical Instructor with a demonstrated history of managing and up-skilling teams of Junior engineers.<br>
