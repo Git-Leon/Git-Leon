@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
-_Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to the deployed portfolio.
+_Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) or navigate to link below to view full portfolio_
+   * `https://git-leon.github.io/Leon-Hunter-Public-Portfolio`
 
 # Senior Cloud Native Application Developer
 # Junior Cloud DevOps Engineer
@@ -16,6 +16,8 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to the de
 * **Github Organization Ownership**
     * `https://github.com/curriculeon`
     * `https://github.com/git-leon`
+* **Deployed Maven Dependencies**
+   * https://packagecloud.io/git-leon/
 
 ### Education
 * Delaware State University (2011 - 2015)
