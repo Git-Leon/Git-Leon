@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-_Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) or navigate to link below to view full portfolio_
+_Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to view full portfolio_
 
 
 ### Education
