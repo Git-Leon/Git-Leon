@@ -22,3 +22,5 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to view f
 
 * **Deployed Maven Dependencies**
    * [`https://packagecloud.io/git-leon/`](https://packagecloud.io/git-leon/)
+
+![Git-Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula) 
