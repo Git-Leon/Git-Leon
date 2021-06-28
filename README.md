@@ -20,7 +20,6 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to view f
 * **Github Organization Ownership**
     * [`https://github.com/git-leon`](https://github.com/git-leon)
     * [`https://github.com/curriculeon`](https://github.com/curriculeon)
-    * [`https://github.com/curriculeon-student`](https://github.com/curriculeon-student)
 
 * **Deployed Maven Dependencies**
    * [`https://packagecloud.io/git-leon/`](https://packagecloud.io/git-leon/)
