@@ -1,5 +1,5 @@
-![Git-Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&hide=roff,tsql,html,css,javascript,c,c%2B%2B,MATLAB,perl&theme=tokyonight)
+![Git-Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula)<br>
 
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
