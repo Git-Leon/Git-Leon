@@ -8,7 +8,7 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to view f
 
 ### Education
 * Delaware State University (2011 - 2015)
-* Bachelor of Science (BS)
+* [Bachelor of Science (BS)](./bachelors-degree.pdf)
 * Computer Science Major, Mathematics Minor
 
 
