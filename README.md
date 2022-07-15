@@ -1,7 +1,14 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&hide=roff,tsql,html,css,javascript,c,c%2B%2B,MATLAB,perl&theme=tokyonight)<br> -->
-![Git-Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula)
-
-![Git-Leon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&layout=compact&theme=dracula&hide_border=truehide=roff,tsql,c)
+<table>
+   <tr>
+      <td>
+         <img alt="Git-Leon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula">         
+      </td>
+      <td>
+         <img alt="Git-Leon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&layout=compact&theme=dracula&hide_border=truehide=roff,tsql,c">
+      </td>
+   </tr>
+</table>
 
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
