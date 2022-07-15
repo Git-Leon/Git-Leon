@@ -1,6 +1,8 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&hide=roff,tsql,html,css,javascript,c,c%2B%2B,MATLAB,perl&theme=tokyonight)<br> -->
 ![Git-Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula)
 
+[![Git-Leon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&layout=compact&theme=buefy&hide_border=true&hide=roff,tsql,c)](https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&layout=compact&theme=buefy&hide_border=truehide=roff,tsql,c)
+
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to view full portfolio_
