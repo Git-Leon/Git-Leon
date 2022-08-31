@@ -24,7 +24,7 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio) to view f
 ### Contact Information
 * **Email**: [`xleonhunter@gmail.com`](mailto:xleonhunter@gmail.com)
 * **Website:** [`https://git-leon.github.io/Leon-Hunter-Public-Portfolio`](https://git-leon.github.io/Leon-Hunter-Public-Portfolio)
-* **LinkedIn:** [`https://www.linkedin.com/in/leon-hunter-3230408b`](https://www.linkedin.com/in/leon-hunter-3230408b)
+* **LinkedIn:** [`https://www.linkedin.com/in/leon-hunter`](https://www.linkedin.com/in/leon-hunter)
 
 ### Organizations & Deployed Utilities
 * **Github Organization Ownership**
